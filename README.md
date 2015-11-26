@@ -6,4 +6,3 @@ Plotting enery dispersion of the problem of Course on Electrons and Phonons in S
 
 # View
 You can view the ipython notebook containing the code and plot of below diagram just by clicking on [the file 'plot.ipynb'](/plot.ipynb) or view it by [nbviewer](http://nbviewer.ipython.org/github/mkhm/EPS-sample-plot/blob/master/plot.ipynb).
-![figure](/plot.png)
